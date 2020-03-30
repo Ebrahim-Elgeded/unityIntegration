@@ -1,0 +1,2 @@
+include ':app', ':unityLibrary-debug'
+rootProject.name='UnityTest'
